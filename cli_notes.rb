@@ -22,7 +22,7 @@
 puts "Enter a number"
 choice_number = gets.chomp
 
-if (choice_number)%2!=0
+if (choice_number.to_i%2!=0
   puts "Odd"
 else
   puts "Even"
