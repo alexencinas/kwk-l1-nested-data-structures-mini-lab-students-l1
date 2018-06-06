@@ -40,5 +40,4 @@ def city_populations(cities)
   # your code here!
   cities[:los_angeles]
   cities[:chicago][:mayor]
-  
 end
