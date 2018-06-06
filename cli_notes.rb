@@ -16,3 +16,4 @@ last_name = gets.chomp
 
 puts "Welcome to the #{game_number}th Hunger Games, #{first_name} #{last_name}."
 
+#make a program that taks in a single integer and prints 'odd' or 'even'
