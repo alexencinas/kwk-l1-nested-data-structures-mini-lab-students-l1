@@ -24,7 +24,6 @@ choice_number = gets.chomp
 
 if (choice_number)2==0
   puts "Even"
-  else 
-    puts "Odd"
-  end 
-end
+else
+  puts "Odd"
+end 
